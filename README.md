@@ -72,7 +72,6 @@ The objective of this task was to clean and preprocess a raw dataset by handling
 Task-1-Data-Cleaning/
 │
 ├── data_cleaning.ipynb
-├── marketing_campaign.csv
 ├── cleaned_dataset.csv
 └── README.md
 ```
